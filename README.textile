@@ -1,0 +1,90 @@
+<img src="https://lh5.googleusercontent.com/-sAZuAKySKGs/ThFuylvhu9I/AAAAAAAABQM/t8smkmYBBPM/cakecafe4.png" width=650 height=120 alt="デザイナー向けCakePHP勉強会">
+
+h1. 概要
+
+*CakePHPのviewやcss等、デザイン部分に特化した勉強会* です。
+*CakePHPについて勉強したいけどプログラムはちょっとという方* も、これから *CakePHPを覚えていきたいという方* も、CakePHPに興味がある方はご参加下さい。
+
+h3. 対象者
+* CakePHPに興味のある方
+* 仕事でCakePHP案件を請けようと思っている方
+* 仕事でCakePHPのデザイン部分を担当している方
+* HTML/CSSは書けるけどPHPはよく分かっていないという方
+* その他新しいことを覚えるのが好きな方
+
+CakePHPでどうやってHTML/CSS等が書けるのかという *基礎的な内容を中心* として、 *デザイン全般をどのように進めていくのか* という視点でお話しする予定です。
+（期待している内容があればコメントに書いてください）
+
+h3. 残念ながら当てはまらない方
+* HTML/CSSを知らない方（HTMLが分からないと難しいです）
+* CakePHPを使用してwebアプリケーションをつくれる方（CakePHPについての高度な内容はお話ししません）
+* 新しいことを覚えることに抵抗のある方（いちおう勉強会ですので、、）
+
+h3. 必須ではない 知識
+* CakePHPについての知識（これを当日みんなで勉強しましょう）
+* PHPについての高度な知識（デザイン部分を中心にやるので。PHPについては知っていればベターという感じです）
+
+h2. タイムテーブル
+
+|_. 時間|_. 発表者|_. タイトル|
+|16:00 - 18:00||"CakeCafe":http://atnd.org/events/17888 （希望者のみ）|
+|18:00 - 18:20||受付け（集まり次第、談笑タイム）|
+|18:20 - 18:30|@mon_sat|開会（ごあいさつ）|
+|18:30 - 18:50|@cakephperさん|CakePHPについての基礎知識|
+|19:00 - 19:30|@ecworks_masapさん|CakePHPのデザイン周りについて（初級編）|
+|19:40 - 20:05|@kara_dさん|MVCのVを極めるWebデザイナーになる|
+|20:10 - 20:30|\2. LT x 3つくらい<br>* PHPTAL／CakePHP-TALTAL by @nojimageさん（遠隔LT）<br>* CakePHPのpaginatorのデザイン周り by @ogaaaanさん<br>* KtaiLibrary by @ecworks_masapさん（時間が足りない場合は次回）|
+|20:30||閉会|
+|20:45 - 22:45||"懇親会":http://atnd.org/events/17889 （希望者のみ）<br>質疑応答／ディスカッション／その他勉強会では言えない話などなど|
+
+h2. 費用
+
+*0円* （会場は *さくらインターネット* さんに *無償で* 利用させていただいています）
+ただし懇親会参加希望者は懇親会費用を割り勘します。
+
+h2. ご参加にあたり
+
+セキュリティ・チェックのため、参加者の方全員に名刺の提出をお願いします。
+連絡用に、 <big>*ATNDのアカウントに「メールアドレス」を登録*</big> してください。 <big>*可能な方はtwitterIDもご登録*</big> 下さい。
+
+
+h2. 場所
+
+"さくらインターネット社セミナールーム（新宿）":http://t.co/ByMKFZo
+住所: 東京都新宿区西新宿4-33-4 住友不動産西新宿ビル4号館 6F
+
+h2. スタッフ
+
+"@kara_d":http://twitter.com/kara_d
+"@mon_sat":http://twitter.com/mon_sat
+"@hiromi2424":http://twitter.com/hiromi2424
+"@evert0n":http://twitter.com/evert0n
+"@konsan":http://twitter.com/konsan
+
+h3. 話し手
+
+"@cakephper":http://twitter.com/cakephper
+"@ecworks_masap":http://twitter.com/ecworks_masap
+"@nojimage":http://twitter.com/nojimage
+"@ogaaaan":http://twitter.com/ogaaaan
+
+h3. CakePHPに興味のある方は、ぜひお気軽にご参加下さい！
+
+ハッシュタグは "#CakePHP4d":http://twitter.com/search?q=%23CakePHP4d (CakePHP for designers) です。
+質問は、このハッシュタグか、 "@MontBlancSucks":http://twitter.com/MontBlancSucks へお願いします。
+参加者リスト(twitter)  "@MontBlancSucks/cakephp4d-study-201106":http://twitter.com/MontBlancSucks/cakephp4d-study-201106 （順次追加していきます。どうぞフォローしてください）
+
+h2. 懇親会について
+
+勉強会後、参加者の皆さんの交流を目的とし、懇親会を開催します。
+懇親会は勉強会以上に有意義だったりします。
+ぜひ、ご参加下さい。
+
+出欠は当日受付け時に聞きますが、 "事前の人数把握にご協力下さい！":http://atnd.org/events/17889
+"http://atnd.org/events/17889":http://atnd.org/events/17889 ←未定の方も是非どうぞ。
+
+h2. CakeCafeについて
+
+普通の懇親会だけじゃ面白くないので、勉強会 *前に* 交流するという企画を思いつきました。
+興味のある方はぜひどうぞー。
+"http://atnd.org/events/17888":http://atnd.org/events/17888
