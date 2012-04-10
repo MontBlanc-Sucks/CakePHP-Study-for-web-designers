@@ -1,0 +1,57 @@
+h1. ワークショップやります
+
+4/21のwebデザイナー向けCakePHP勉強会に先立ち、以前からご要望のあったワークショップを開催します。
+
+先月下旬に発売されたばかりの「WebデザイナーのためのCakePHPビューコーディング入門」の著者の方に講師をお願いしました。
+実際に手を動かしながら、 *CakePHPの基本をしっかりと学んでみませんか？*
+
+h2. 例えばこんな方々にお勧めです！
+
+* CakePHPを始めて見ようと思っているけど、時間がなくて困っている方
+* CakePHPを触ってみたけど、なかなか学習が進まない方
+* CakePHP勉強中で解決できない問題があって困っている方
+
+CakePHPの勉強をしたい方は、CakePHP本の著者から直接学べるチャンスです！
+
+※ 今回はCakePHPの基本を学ぶコースとなっていますので、実際にCakePHPを使用してWebアプリケーションを作ったことがある方には物足りない内容になると思われます。ご注意を。
+
+h2. テキスト
+
+"WebデザイナーのためのCakePHPビューコーディング入門":http://www.amazon.co.jp/gp/product/4798033146/ref=as_li_ss_tl?ie=UTF8&linkCode=as2&camp=247&tag=montblancs-22&creative=7399&creativeASIN=4798033146
+<img border="0" src="http://ws.assoc-amazon.jp/widgets/q?_encoding=UTF8&Format=_SL110_&ASIN=4798033146&MarketPlace=JP&ID=AsinImage&WS=1&tag=montblancs-22&ServiceVersion=20070822" ></a><img src="http://www.assoc-amazon.jp/e/ir?t=montblancs-22&l=as2&o=9&a=4798033146" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+秀和システム
+滝下 真玄 (著), 原 一浩 (著) 
+
+h2. 参加費
+
+* テキスト代込み 8,000円
+* テキストを既に購入済みの方は 5,000円
+
+ワークショップは有料です。
+希望者には領収証を発行いたします。
+
+h2. コース
+
+# ビュー体験コース
+#* ビューを中心にCakePHPの基本機能を一通り体験するコースです
+#* CakePHPがインストールされたPC/Macを持ってきてください
+# インストールコース
+#* CakePHPのインストールから始め、時間の許すところまで
+#* 基本的にはビュー体験コースをどうぞ。もしインストールの時間がなかったりつまずいてしまうことがあればこちらのコースをご利用ください
+
+
+
+h2. 日時／場所
+
+*2012年4月21日（土）13:30~16:30*
+
+"PoRTAL Shibuya":http://www.hituji.jp/portal/
+住所: 東京都渋谷区渋谷1-17-1 TOC第2ビル3F
+
+※ 17時より無料の勉強会がございます。あわせてご参加ください
+
+h2. 定員
+
+*10名* （両コース合計）
+
+少人数制でスタッフがしっかりとサポートいたします。
