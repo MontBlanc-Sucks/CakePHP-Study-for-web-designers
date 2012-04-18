@@ -26,14 +26,14 @@ h3. 必須ではない 知識
 h2. タイムテーブル
 
 |_. 時間|_. 発表者|_. タイトル|
-|{width:85px}.13:30 - 16:30||（ "ワークショップ":http://atnd.org/events/27814 ）|
+|{width:85px}.13:30 - 16:30||（ "ワークショップ":http://atnd.org/events/27814 ） *←参加者募集中* |
 |16:30 - 17:00||受付け（集まり次第、談笑タイム）|
 |17:05 - 17:15||開会（ごあいさつ）|
-|17:20 - 18:00|"@kara_d":http://twitter.com/kara_d <br> "@ecworks_masap":http://twitter.com/ecworks_masap <br> "@cakephper":http://twitter.com/cakephper 他 <br>（参加者募集中）| 書籍の紹介 "WebデザイナーのためのCakePHPビューコーディング入門":http://www.amazon.co.jp/gp/product/4798033146 <br>スイーツタイム<br>座談会|
-|18:10 - 18:30||セッション1|
-|18:40 - 19:00|"@cakephper":http://twitter.com/cakephper|セッション2|
-|19:10 - 19:30|"@ogaaaan":http://twitter.com/ogaaaan|セッション3|
-|19:40 - 20:00|"@hiromi2424":http://twitter.com/hiromi2424|セッション4|
+|17:20 - 18:00|"@kara_d":http://twitter.com/kara_d <br> "@ecworks_masap":http://twitter.com/ecworks_masap <br> "@cakephper":http://twitter.com/cakephper <br>"@mon_sat":http://twitter.com/mon_sat <br> 他| 書籍の紹介 "WebデザイナーのためのCakePHPビューコーディング入門":http://www.amazon.co.jp/gp/product/4798033146 <br>スイーツタイム座談会|
+|18:10 - 18:30||セッション1「CakePHP2.1のViewの基本（仮題）」|
+|18:40 - 19:00|"@hiromi2424":http://twitter.com/hiromi2424|セッション2「Helper機能（仮題）」|
+|19:10 - 19:30|"@cakephper":http://twitter.com/cakephper|セッション3「実践テクニック”Debug編”（仮題）」|
+|19:40 - 20:00|"@ogaaaan":http://twitter.com/ogaaaan|セッション4「テーマ機能（仮題）」|
 |20:00 - 20:10||閉会＆PoRTALご案内|
 |20:10 - 21:30|<br>BaserCMS<br>事例紹介者募集中|"懇親会":http://atnd.org/ （希望者のみ）<br>事例紹介／質疑応答／ディスカッション／その他勉強会では言えない話などなど|
 
