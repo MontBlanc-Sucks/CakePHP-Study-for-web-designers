@@ -26,7 +26,8 @@ h3. 必須ではない 知識
 h2. タイムテーブル
 
 |_. 時間|_. 発表者|_. タイトル|
-|{width:85px}.13:30 - 16:30||（ "ワークショップ":http://atnd.org/events/27814 ） *←参加者募集中* |
+|{width:85px}.10:00 - 16:30||（早く来てドロップインで "PoRTAL":http://www.hituji.jp/portal/ 利用可能。ドロップイン料金は2,000円）|
+|13:30 - 16:30||（ "ワークショップ":http://atnd.org/events/27814 ） *←参加者募集中* |
 |16:30 - 17:00||受付け（集まり次第、談笑タイム）|
 |17:05 - 17:15|"@konsan":http://twitter.com/konsan|開会（ごあいさつ）|
 |17:20 - 18:00|"@kara_d":http://twitter.com/kara_d <br> "@ecworks_masap":http://twitter.com/ecworks_masap <br> "@cakephper":http://twitter.com/cakephper <br>"@mon_sat":http://twitter.com/mon_sat <br> 他| 書籍の紹介 "WebデザイナーのためのCakePHPビューコーディング入門":http://www.amazon.co.jp/gp/product/4798033146 <br>スイーツタイム座談会|
