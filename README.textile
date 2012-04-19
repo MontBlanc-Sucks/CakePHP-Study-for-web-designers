@@ -69,6 +69,7 @@ Thanks.
 "@hamaco":http://twitter.com/#!/hamaco
 "@hamichamp":http://twitter.com/#!/hamichamp
 "@sabohoney_com":http://twitter.com/#!/sabohoney_com
+"@takahashiyuya":http://twitter.com/#!/takahashiyuya
 
 h3. 話し手
 
