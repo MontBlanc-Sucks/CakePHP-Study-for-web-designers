@@ -31,7 +31,7 @@ h2. タイムテーブル
 |16:30 - 17:00||受付け（集まり次第、談笑タイム）|
 |17:05 - 17:15|"@konsan":http://twitter.com/konsan|開会（ごあいさつ）|
 |17:20 - 18:00|"@kara_d":http://twitter.com/kara_d <br> "@ecworks_masap":http://twitter.com/ecworks_masap <br> "@cakephper":http://twitter.com/cakephper <br>"@mon_sat":http://twitter.com/mon_sat <br> 他| 書籍の紹介 "WebデザイナーのためのCakePHPビューコーディング入門":http://www.amazon.co.jp/gp/product/4798033146 <br>スイーツタイム座談会|
-|18:10 - 18:30||セッション1「CakePHP2.1のViewの基本（仮題）」|
+|18:10 - 18:30|"@slumbers99":http://twitter.com/#!/slumbers99|セッション1「CakePHP2.1のViewの基本（仮題）」|
 |18:40 - 19:00|"@hiromi2424":http://twitter.com/hiromi2424|セッション2「Helper機能（仮題）」|
 |19:10 - 19:30|"@cakephper":http://twitter.com/cakephper|セッション3「実践テクニック”Debug編”（仮題）」|
 |19:40 - 20:00|"@ogaaaan":http://twitter.com/ogaaaan|セッション4「テーマ機能（仮題）」|
@@ -65,7 +65,6 @@ h2. スタッフ
 "@ecworks_masap":http://twitter.com/ecworks_masap
 
 Thanks.
-"@slumbers99":http://twitter.com/#!/slumbers99
 "@hamaco":http://twitter.com/#!/hamaco
 "@hamichamp":http://twitter.com/#!/hamichamp
 "@sabohoney_com":http://twitter.com/#!/sabohoney_com
@@ -74,6 +73,7 @@ Thanks.
 h3. 話し手
 
 "@ogaaaan":http://twitter.com/ogaaaan
+"@slumbers99":http://twitter.com/#!/slumbers99
 
 他
 
