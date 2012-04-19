@@ -18,8 +18,8 @@ CakePHPの勉強をしたい方は、CakePHP本の著者から直接学べるチ
 
 h2. テキスト
 
-"WebデザイナーのためのCakePHPビューコーディング入門":http://www.amazon.co.jp/gp/product/4798033146/ref=as_li_ss_tl?ie=UTF8&linkCode=as2&camp=247&tag=montblancs-22&creative=7399&creativeASIN=4798033146
-<img border="0" src="http://ws.assoc-amazon.jp/widgets/q?_encoding=UTF8&Format=_SL110_&ASIN=4798033146&MarketPlace=JP&ID=AsinImage&WS=1&tag=montblancs-22&ServiceVersion=20070822" ></a><img src="http://www.assoc-amazon.jp/e/ir?t=montblancs-22&l=as2&o=9&a=4798033146" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+"WebデザイナーのためのCakePHPビューコーディング入門":http://www.amazon.co.jp/gp/product/4798033146/
+
 秀和システム
 滝下 真玄 (著), 原 一浩 (著) 
 
@@ -72,7 +72,7 @@ h2. 日時／場所
 "PoRTAL Shibuya":http://www.hituji.jp/portal/
 住所: 東京都渋谷区渋谷1-17-1 TOC第2ビル3F
 
-※ 17時より無料の勉強会がございます。あわせてご参加ください
+※ 17時より無料の "勉強会":http://atnd.org/events/27742 がございます。こちらは通常の勉強会ですが、あわせてご参加ください
 
 h2. 定員
 
